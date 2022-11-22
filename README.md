@@ -2,7 +2,7 @@
 Remote Administration Tool written in Python for local computer management
 
 # Usage
-1) Download `Python-RAT-x.x.zip` from [releases](https://github.com/WilliamAfton-codes/Python-RAT/)
+1) Download `Python-RAT-x.x.zip` from [releases](https://github.com/WilliamAfton-codes/Python-RAT/releases)
 
 2) Install pyuac library in command prompt: 
 ```
