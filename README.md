@@ -1,6 +1,8 @@
 # Python-RAT
 Remote Administration Tool written in Python for local computer management
 
+Made for library testing (Testing shutil, socket and pyuac)
+
 # Usage
 1) Download `Python-RAT-x.x.zip` from [releases](https://github.com/WilliamAfton-codes/Python-RAT/releases)
 
