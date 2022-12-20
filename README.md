@@ -1,6 +1,8 @@
 # Python-RAT
 Remote Administration Tool written in Python for local computer management
 
+_**[BETA]**_
+
 Made for library testing (Testing shutil, socket and pyuac)
 
 # Usage
